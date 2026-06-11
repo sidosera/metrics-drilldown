@@ -39,6 +39,11 @@
     "no-results": "無結果。",
     "selected-count_other": "已選取 {{count}} 個"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "套用",
     "cancel": "取消",
@@ -66,6 +71,10 @@
     "stack-trace-label": "檢視堆疊追蹤",
     "title": "致命錯誤！"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "面板資料已使用更複雜的查詢重新擷取，以處理系列中的極小值"
   },
@@ -76,6 +85,9 @@
     "error": "擷取儀表板指標失敗",
     "limit-warning-body": "Your organization has more dashboards than this limit. Usage counts may be incomplete.",
     "limit-warning-title": "Dashboard usage sort is limited to 500 dashboards."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "篩選的指標"

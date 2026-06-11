@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} sélectionné",
     "selected-count_other": "{{count}} sélectionnés"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Appliquer",
     "cancel": "Annuler",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Afficher la trace de la stack",
     "title": "Erreur fatale !"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Les données du panneau ont été récupérées à nouveau à l’aide d’une requête plus complexe, afin de gérer des valeurs extrêmement faibles dans la série"
   },
@@ -77,6 +86,9 @@
     "error": "Échec du chargement des métriques du tableau de bord",
     "limit-warning-body": "Votre organisation possède un nombre de tableaux de bord supérieur à cette limite. Les décomptes de l’utilisation peuvent être incomplets.",
     "limit-warning-title": "Le tri de l’utilisation des tableaux de bord est limité à 500 tableaux de bord."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Métriques filtrées"

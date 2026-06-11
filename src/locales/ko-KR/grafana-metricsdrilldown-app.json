@@ -39,6 +39,11 @@
     "no-results": "결과 없음.",
     "selected-count_other": "{{count}} 선택됨"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "적용",
     "cancel": "취소",
@@ -66,6 +71,10 @@
     "stack-trace-label": "스택 트레이스 보기",
     "title": "치명적 오류!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "시리즈의 극소값 처리를 위해 더 복잡한 쿼리로 패널 데이터를 다시 가져왔습니다"
   },
@@ -76,6 +85,9 @@
     "error": "대시보드 메트릭 가져오기 실패",
     "limit-warning-body": "조직에 있는 대시보드 수가 이 한도를 초과했습니다. 사용 횟수가 불완전할 수 있습니다.",
     "limit-warning-title": "대시보드 사용량 정렬은 500개 대시보드로 제한됩니다."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "필터링된 메트릭"

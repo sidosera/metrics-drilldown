@@ -39,6 +39,11 @@
     "no-results": "Tidak ada hasil.",
     "selected-count_other": "{{count}} dipilih"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Terapkan",
     "cancel": "Batal",
@@ -66,6 +71,10 @@
     "stack-trace-label": "Lihat jejak stack",
     "title": "Kesalahan fatal!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Data panel diambil kembali dengan kueri yang lebih kompleks untuk menangani nilai yang sangat kecil dalam seri"
   },
@@ -76,6 +85,9 @@
     "error": "Gagal mengambil metrik dasbor",
     "limit-warning-body": "Jumlah dasbor organisasi Anda melebihi batas ini. Jumlah penggunaan mungkin tidak lengkap.",
     "limit-warning-title": "Pengurutan penggunaan dasbor dibatasi 500 dasbor."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Metrik yang Difilter"

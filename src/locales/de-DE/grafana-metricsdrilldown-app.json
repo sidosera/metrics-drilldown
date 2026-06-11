@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} ausgewählt",
     "selected-count_other": "{{count}} ausgewählt"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Anwenden",
     "cancel": "Abbrechen",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Stacktrace anzeigen",
     "title": "Schwerwiegender Fehler!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Die Panel-Daten wurden für die Verarbeitung von extrem kleinen Werten in der Reihe mit einer komplexeren Abfrage erneut abgerufen"
   },
@@ -77,6 +86,9 @@
     "error": "Dashboard-Metriken konnten nicht abgerufen werden.",
     "limit-warning-body": "Ihre Organisation hat mehr Dashboards, als diese Grenze zulässt. Die Nutzungszählungen sind möglicherweise unvollständig.",
     "limit-warning-title": "Die Sortierung der Dashboard-Nutzung ist auf 500 Dashboards beschränkt."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Gefilterte Metriken"

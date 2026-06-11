@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} geselecteerd",
     "selected-count_other": "{{count}} geselecteerd"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Toepassen",
     "cancel": "Annuleren",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Stacktrace weergeven",
     "title": "Fatale fout!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Paneelgegevens zijn opnieuw opgehaald met een complexere query om extreem kleine waarden in de reeks te verwerken"
   },
@@ -77,6 +86,9 @@
     "error": "Kan dashboardmetrics niet ophalen",
     "limit-warning-body": "Je organisatie heeft meer dashboards dan deze limiet. Gebruikstellingen zijn mogelijk onvolledig.",
     "limit-warning-title": "Het sorteren op dashboardgebruik is beperkt tot 500 dashboards."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Gefilterde Metrics"

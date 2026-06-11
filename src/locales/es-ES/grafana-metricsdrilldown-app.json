@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} seleccionado",
     "selected-count_other": "{{count}} seleccionados"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Aplicar",
     "cancel": "Cancelar",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Ver traza de pilas",
     "title": "¡Error grave!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Los datos del panel se volvieron a obtener con una consulta más compleja para manejar valores extremadamente pequeños en la serie"
   },
@@ -77,6 +86,9 @@
     "error": "Error al obtener métricas del dashboard",
     "limit-warning-body": "Tu organización supera el límite de dashboards. Es posible que los recuentos de uso estén incompletos.",
     "limit-warning-title": "La ordenación del uso de los dashboards está limitada a 500 dashboards."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Métricas filtradas"

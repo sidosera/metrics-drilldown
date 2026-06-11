@@ -39,6 +39,11 @@
     "no-results": "結果はありません。",
     "selected-count_other": "{{count}}件選択中"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "適用",
     "cancel": "キャンセル",
@@ -66,6 +71,10 @@
     "stack-trace-label": "スタックトレースを表示",
     "title": "致命的なエラーが発生しました！"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "系列内の極小値を処理するため、より複雑なクエリでパネルデータを再取得しました"
   },
@@ -76,6 +85,9 @@
     "error": "ダッシュボードメトリクスの取得に失敗しました",
     "limit-warning-body": "お客様の組織のダッシュボード数がこの上限を超えています。使用回数のカウントが不完全である可能性があります。",
     "limit-warning-title": "ダッシュボード使用状況の並び替えは、500件のダッシュボードまでに制限されています。"
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "フィルタリングされたメトリクス"

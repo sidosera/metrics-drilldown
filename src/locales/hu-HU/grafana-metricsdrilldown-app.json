@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} kiválasztva",
     "selected-count_other": "{{count}} kiválasztva"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Alkalmaz",
     "cancel": "Mégse",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Stack nyomvonalának megtekintése",
     "title": "Végzetes hiba!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "A paneladatok lekérése megismétlődött egy összetettebb lekérdezéssel a sorozat rendkívül kis értékeinek kezelése érdekében"
   },
@@ -77,6 +86,9 @@
     "error": "Az irányítópult-metrikák lekérése nem sikerült",
     "limit-warning-body": "A szervezeténél a műszerfalak száma meghaladja ezt a korlátot. Előfordulhat, hogy a használati statisztikák nem teljesek.",
     "limit-warning-title": "A műszerfalhasználat szerinti rendezés legfeljebb 500 elemre korlátozott."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Szűrt metrikák"

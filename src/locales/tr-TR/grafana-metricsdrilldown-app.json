@@ -40,6 +40,11 @@
     "selected-count_one": "{{count}} seçildi",
     "selected-count_other": "{{count}} seçildi"
   },
+  "chunk-load-recovery": {
+    "auto-message": "",
+    "manual-message": "",
+    "reload-button": ""
+  },
   "configure-panel": {
     "apply": "Uygula",
     "cancel": "İptal et",
@@ -67,6 +72,10 @@
     "stack-trace-label": "Yığın izlemesini göster",
     "title": "Önemli hata!"
   },
+  "exposed-component-error-boundary": {
+    "message": "",
+    "title": ""
+  },
   "extreme-value-filter": {
     "message": "Panel verileri, serideki son derece küçük değerleri işlemek için daha karmaşık bir sorgu ile yeniden alındı"
   },
@@ -77,6 +86,9 @@
     "error": "Pano metrikleri alınamadı",
     "limit-warning-body": "Kuruluşunuzun bu sınırın üzerinde panosu var. Kullanım sayıları eksik olabilir.",
     "limit-warning-title": "Pano kullanım sıralaması 500 panoyla sınırlıdır."
+  },
+  "fetch-firing-alert-metrics": {
+    "error": ""
   },
   "filtered-metrics-variable": {
     "label": "Filtrelenmiş Metrikler"
